@@ -1,0 +1,6 @@
+D:\программирование\PROJECTS\Decoder\Decoder\bin\Debug\Decoder.exe.config
+D:\программирование\PROJECTS\Decoder\Decoder\bin\Debug\Decoder.exe
+D:\программирование\PROJECTS\Decoder\Decoder\bin\Debug\Decoder.pdb
+D:\программирование\PROJECTS\Decoder\Decoder\obj\Debug\Decoder.csprojResolveAssemblyReference.cache
+D:\программирование\PROJECTS\Decoder\Decoder\obj\Debug\Decoder.exe
+D:\программирование\PROJECTS\Decoder\Decoder\obj\Debug\Decoder.pdb
