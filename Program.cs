@@ -41,9 +41,8 @@ namespace Decoder
 
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("\nDone!");
+            Console.Beep();
             Console.ForegroundColor = ConsoleColor.Gray;
-
-
 
             Console.ReadKey();
         }
